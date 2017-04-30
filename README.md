@@ -17,8 +17,7 @@
 	                    <ul>
 	                        <li>Slaying White Walkers</li>
 	                    </ul>
-	                    
-	                <li style="font-size:16px; font-family:Arial"><em>Favourite Quotes</em></li>
+	                 <li style="font-size:16px; font-family:Arial"><em>Favourite Quotes</em></li>
 	                    <ul>I don't even know who my mother was</ul>
 	                <li style="font-size:16px; font-family:Arial"><em>Where I've Lived</em></li>
 	                    <ol>
